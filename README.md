@@ -30,7 +30,7 @@
 <body>
     <div class="container">
         <h1>Hello, I'm BALLENAHALLI SHANKARAPPA VIDYA</h1>
-        <img src="" alt="My Photo">
+        <img src=" " alt="My Photo">
         <p>I'm From India, I had pursued MS enginerineering in AI in woosong university, Sourth korea. I love learning new technologies and working on innovative projects. I took a Large language model in my 3rd semester, I would like to grab a LLM knowledge on my path of this cource. In my free time, I enjoy watching movies, traveling, and playing sports .</p>
         <p> I'm so happy that i had created my self introduction website for first time</p>
         <p> THANK YOU</p>
