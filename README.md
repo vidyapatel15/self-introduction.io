@@ -30,17 +30,12 @@
 <body>
     <div class="container">
         <h1>Hello, I'm BALLENAHALLI SHANKARAPPA VIDYA</h1>
-        <img src=" " alt="My Photo">
-        <p>I'm From India, I had pursued MS enginerineering in AI in woosong university, Sourth korea. I love learning new technologies and working on innovative projects. I took a Large language model in my 3rd semester, I would like to grab a LLM knowledge on my path of this cource. In my free time, I enjoy watching movies, traveling, and playing sports .</p>
+        <img src="photo-vidya b s.jpg" alt="My Photo">
+        <p>I'm from India, and I have pursued an MS in Engineering in AI at Woosong University, South Korea. I love learning new technologies and working on innovative projects. In my third semester, I took a course on Large Language Models (LLMs), and I would like to deepen my knowledge in this field as part of my studies. In my free time, I enjoy watching movies, traveling, and playing sports. .</p>
         <p> I'm so happy that i had created my self introduction website for first time</p>
         <p> THANK YOU</p>
     </div>
 </body>
 </html>
 
-git clone https://github.com/your-username/self-introduction.git
-cd self-introduction
-echo "<your HTML code>" > index.html
-git add .
-git commit -m "Initial commit"
-git push origin main
+
