@@ -37,14 +37,3 @@
     </div>
 </body>
 </html>
-
-
-
-git clone https://github.com/your-username/self-introduction.git
-cd self-introduction
-echo "<your HTML code>" > index.html
-git add .
-git commit -m "Initial commit"
-git push origin main
-
-
